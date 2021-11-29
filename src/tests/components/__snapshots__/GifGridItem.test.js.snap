@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifGridItem/> debe de mostrar el componente correctamente 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="Dragon Ball GIF by TOEI Animation UK"
+    src="https://media1.giphy.com/media/977YesTjNfQC7vQiph/giphy.gif?cid=7e2b37eceh1dwr34wa0wro9f9mdsas7g20fy1qh5jc7797uk&rid=giphy.gif&ct=g"
+  />
+  <p>
+    Dragon Ball GIF by TOEI Animation UK
+  </p>
+</div>
+`;

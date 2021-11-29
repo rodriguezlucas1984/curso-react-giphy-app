@@ -2,7 +2,10 @@ import ReactDOM from "react-dom";
 import GifExpertApp from "./GifExpertApp";
 import "./index.css";
 
-ReactDOM.render(<GifExpertApp />, document.getElementById("root"));
+ReactDOM.render(
+  <GifExpertApp defaultCategories={["Dragon Ball"]} />,
+  document.getElementById("root")
+);
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
